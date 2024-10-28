@@ -1,2 +1,2 @@
 # project-txt-generator
-simple python logic to data manipulation
+simple python logic to practice data manipulation
